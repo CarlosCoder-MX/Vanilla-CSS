@@ -1,6 +1,6 @@
 # CSS Grid vs Flexbox - Cuando usar uno u otro
-### [Tutorial: https://youtu.be/falconmasters](https://youtu.be/falconmasters)
+### 
 
-![CSS Grid vs Flexbox - Cuando usar uno u otro](https://raw.githubusercontent.com/falconmasters/grid-vs-flexbox/master/img/thumb.png)
+Ejercicio para llegar a mismos mismos resultados con css grid y flexbox
 
-Por: [FalconMasters](http://www.falconmasters.com)
+Por: [CarlosCoder]
